@@ -1,0 +1,11 @@
+{
+  "name": "get-emoji-by-language-code",
+  "version": "1.0.0",
+  "description": "Get the appropriate emoji by language code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Nordström",
+  "license": "ISC"
+}
