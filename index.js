@@ -6,4 +6,4 @@ function getEmojiByLanguageCode(languageCode) {
   return emoji || "😞";
 }
 
-module.exports.default = getEmojiByLanguageCode;
+module.exports = getEmojiByLanguageCode;
