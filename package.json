@@ -3,9 +3,32 @@
   "version": "1.0.2",
   "description": "Get the appropriate emoji by language code",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "emoji",
+    "language",
+    "lookup",
+    "code",
+    "language-codes",
+    "language-emoji",
+    "language-emoji-mapping",
+    "emoji-lookup",
+    "emoji-mapping",
+    "internationalization",
+    "localization",
+    "i18n",
+    "l10n",
+    "country-flags",
+    "flags",
+    "language-support",
+    "language-utilities",
+    "npm-package",
+    "utility",
+    "JavaScript"
+  ],
   "author": "Martin Nordström",
   "license": "ISC"
 }
