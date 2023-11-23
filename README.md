@@ -7,13 +7,13 @@ Language Emoji Lookup is a simple npm package that allows you to easily retrieve
 You can install the package via npm or yarn:
 
 ```shell
-npm install language-emoji-lookup
+npm install get-emoji-by-language-code
 ```
 
 or
 
 ```shell
-yarn add language-emoji-lookup
+yarn add get-emoji-by-language-code
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ To use this package, follow these steps:
 1. Import the getEmojiByLanguageCode function from the package:
 
 ```javascript
-const getEmojiByLanguageCode = require("language-emoji-lookup");
+const getEmojiByLanguageCode = require("get-emoji-by-language-code");
 ```
 
 2. Call the function with a language code to get the associated emoji:
