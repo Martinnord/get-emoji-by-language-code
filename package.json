@@ -1,6 +1,6 @@
 {
   "name": "get-emoji-by-language-code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get the appropriate emoji by language code",
   "main": "index.js",
   "types": "index.d.ts",
